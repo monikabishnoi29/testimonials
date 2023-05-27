@@ -28,9 +28,9 @@ body {
     backface-visibility: hidden;
 }
 .card .box.front{
-    background-image: url(img/pattern.png);
+/*     background-image: url(img/pattern.png); */
     background-repeat: repeat; 
-       /* https://www.toptal.com/designers/subtlepatterns/moroccan-flower-pattern/ */
+       https://www.toptal.com/designers/subtlepatterns/moroccan-flower-pattern/
 }
 .card .box.front,
 .card .box.back {
